@@ -2,6 +2,10 @@
 
 I'm an Economics student at FEA USP and a member of FEA.dev.
 
+Besides programming, I’m passionate about education, academic research, football (big Flamengo and Chelsea fan!), violin playing and climbing. 
+
+Check out my organization: https://www.instagram.com/iniciativalogos/. 
+
 ![mariadulcenbm's Stats](https://github-readme-stats.vercel.app/api?username=mariadulcenbm&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 
 ##
